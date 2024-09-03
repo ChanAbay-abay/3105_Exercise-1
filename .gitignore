@@ -1,2 +1,3 @@
-# Ignore .DS_Store file (macOS)
 .DS_Store
+.vscode/
+HelloProgram_ABAY-ABAY
