@@ -8,5 +8,5 @@ int main(){
     scanf("%s", username);
 
     // printf("Hello World! My name Jeff!\n"); /* commented out for hello username modification */
-    printf("Hello %s, my name Jeff!", username);
+    printf("Hello %s, my name Kent!", username); // You are not Jeff.
 }
