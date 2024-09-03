@@ -1,5 +1,12 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello World! My name Jeff!\n");
+    char username[15];
+
+    //getting username
+    printf("Enter Username: ");
+    scanf("%s", username);
+
+    // printf("Hello World! My name Jeff!\n"); /* commented out for hello username modification */
+    printf("Hello %s, my name Jeff!", username);
 }
